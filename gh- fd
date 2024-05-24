@@ -1,0 +1,6 @@
+echo "# Global" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+5456
+git push -u origin main
